@@ -4,11 +4,11 @@
 ## Team
 
 - [Rodolfo Sandoval](https://www.linkedin.com/in/rudyspg/)
-- [Joshua Chaves](https://www.linkedin.com/in/joshua-c-312915232/)
+- [Joshua Chavez](https://www.linkedin.com/in/joshua-c-312915232/)
 
 ## Project Overview
-The purpose of this project is to have a simple website that will a "user" to be able to create a computer build list that will be checked using 
-pcpartpicker api.
+
+The purpose of this project is to develop a straightforward website that allows users to create a computer build list. This list will be validated using the PCPartPicker API.. 
 
 ## Goals
 #### Four Phases:
