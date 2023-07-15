@@ -9,6 +9,9 @@
 ## Security
 
 ## Privacy
+#### **All users will have their data saved, and logged. However nothing will be sold.. **
+
+
 
 ## Reliability
 
