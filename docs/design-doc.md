@@ -16,6 +16,10 @@
 
 ## Wireframe
 
+![alt text](designs/wireframe/main_1.jpg)   
+![alt text](designs/wireframe/main_2.jpg)   
+![alt text](designs/wireframe/main_3.jpg)
+
 ## Mockups
 
 ## Prototype

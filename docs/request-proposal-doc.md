@@ -12,8 +12,8 @@ The purpose of this project is to develop a straightforward website that allows 
 
 ## Goals
 #### Four Phases:
-1: Basic single-page that allows users to input and add text for computer parts (such as CPU, motherboard, etc.) in separate columns.
-2: Integrate user accounts to provide the capability for users to save their input(builds) and preserve it.  
+1: Basic single-page that allows users to input and add text for computer parts (such as CPU, motherboard, etc.) in separate columns.   
+2: Integrate user accounts to provide the capability for users to save their input(builds) and preserve it.   
 3: Interactive computer build "animation"?  
 4: Inexpensive esay to use paywall that will allow users to see the interactive buildlist..
 
